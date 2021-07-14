@@ -1,6 +1,10 @@
 # TGBG
 TG Bug Group
 
+## Status
+
+Gathering data. We are at the name right now and need to get the name to encompass human unsiloing of research related to TGbug.
+
 ## Meetings 
 
 ### 2021-07-07 Meeting
