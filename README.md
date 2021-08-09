@@ -5,6 +5,16 @@ TG Bug Group
 
 Gathering data. We are at the name right now and need to get the name to encompass human unsiloing of research related to TGbug.
 
+### Testing for Toxoplasmosis
+
+- The current best way to test for TGBug is 
+  - https://labtestsonline.org/tests/toxoplasmosis-testing
+  - In USA, not well understood by most Dr.  Common test by vets. Anybody exposed to oocysts from cat poop is susceptible.  See a few vaccine journal articles  on GitHub
+  - Disease: Toxoplasmosis
+  - Parasite: T gondii
+  - Blood test: IgM, IgG
+  - Common tests are for  IgG, IgM antibodies for tachyzoite stage. Also  testing for bradyzoite (dormant) stage requires tissue biopsy, spinal fluid or more experimental molecular testing looking for bradyzoite metabolism. Univ Chicago, Univ Mich
+
 ## Meetings 
 
 ### 2021-07-07 Meeting
