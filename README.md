@@ -5,6 +5,25 @@ TG Bug Group
 
 Gathering data. We are at the name right now and need to get the name to encompass human unsiloing of research related to TGbug.
 
+## Research Update 2021-12-09
+
+Attaching a few articles on T gondii testing and others for understanding.  Recommend starting with "Life cycle" article.  Danger to humans are unborn child infected thru mother, also children and adults who are infected from uncooked meat or inhaling oocyst.  T gondii travel thru the body and can go dormant in muscles, heart, brain.  Note-life cycle article has links for downloading images at end.
+
+The life-cycle of T gondii: oocyst ---> tachyzoite (infectious stage) ---> bradyzoite (dormant stage) ----> tachyzoite
+
+Videos Whitehead Instit MIT
+https://www.youtube.com/watch?v=HOnhthD3yz4 
+
+https://www.youtube.com/watch?v=TIc6exbsH90
+
+You'll notice it is a huge world-wide problem.  Common route for human infection is under cooked meat.  Not typically tested for in USA.  Felines are the only host, parasites can infect any animal, primarily mammals.  The US does not have much going on other than Univ of Chicago med school.  However field evidence from other countries would imply the US (feral) cat population are carriers.  Research for vaccines is primarily in Europe and NZ.  A veterinary vaccine is available for sheep to prevent ewes aborting lambs.
+
+https://www.uchicagomedicine.org/conditions-services/ophthalmology/toxoplasmosis-center
+
+https://www.uchicagomedicine.org/find-a-physician/physician/rima-mcleod
+
+
+
 ### Testing for Toxoplasmosis
 
 - The current best way to test for TGBug is 
