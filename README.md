@@ -13,11 +13,15 @@ Gathering data. We are at the name right now and need to get the name to encompa
 
 The current best way to test for TGBug is
 https://labtestsonline.org/tests/toxoplasmosis-testing
+
 In USA, not well understood by most Dr. Common test by vets. Anybody exposed to oocysts from cat poop is susceptible. See a few vaccine journal articles on GitHub
-Disease: Toxoplasmosis
-Parasite: T gondii
-Blood test: IgM, IgG
-Common tests are for IgG, IgM antibodies in tachyzoite stage. Also testing for bradyzoite (dormant) stage requires tissue biopsy, spinal fluid or more experimental molecular testing looking for bradyzoite metabolism. Univ Chicago, Univ Mich
+
+- Disease: Toxoplasmosis
+- Parasite: T gondii
+- Blood test: IgM, IgG
+- Common tests are for IgG, IgM antibodies in tachyzoite stage. Also testing for bradyzoite (dormant) stage requires tissue biopsy, spinal fluid or more experimental molecular testing looking for bradyzoite metabolism. Univ Chicago, Univ Mich
+
+- Read more <a href="/docs">DOCs</a>
 
 ## Research Update 2021-12-09
 
