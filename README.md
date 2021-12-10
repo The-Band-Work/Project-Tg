@@ -5,6 +5,20 @@ TG Bug Group
 
 Gathering data. We are at the name right now and need to get the name to encompass human unsiloing of research related to TGbug.
 
+## Branding
+
+"Toxic Gondii"
+
+## Ways to get "Toxic Gondii" and How to Test Toxic Gondii
+
+The current best way to test for TGBug is
+https://labtestsonline.org/tests/toxoplasmosis-testing
+In USA, not well understood by most Dr. Common test by vets. Anybody exposed to oocysts from cat poop is susceptible. See a few vaccine journal articles on GitHub
+Disease: Toxoplasmosis
+Parasite: T gondii
+Blood test: IgM, IgG
+Common tests are for IgG, IgM antibodies in tachyzoite stage. Also testing for bradyzoite (dormant) stage requires tissue biopsy, spinal fluid or more experimental molecular testing looking for bradyzoite metabolism. Univ Chicago, Univ Mich
+
 ## Research Update 2021-12-09
 
 Attaching a few articles on T gondii testing and others for understanding.  Recommend starting with "Life cycle" article.  Danger to humans are unborn child infected thru mother, also children and adults who are infected from uncooked meat or inhaling oocyst.  T gondii travel thru the body and can go dormant in muscles, heart, brain.  Note-life cycle article has links for downloading images at end.
