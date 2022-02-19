@@ -23,6 +23,11 @@ In USA, not well understood by most Dr. Common test by vets. Anybody exposed to 
 
 - Read more <a href="/docs">DOCs</a>
 
+## Research Update 2022-02-18
+
+Uploaded three (3) zip files containing many journal aricles found during Dec 2021--Feb 2022 searches.  Files grouped by major topic; ALS, PD, Toxo/Tgondii:  
+ALS-MS_17Feb2022.zip, PD_17Feb2022.zip, Toxo_17Feb2022.zip
+
 ## Research Update 2021-12-09
 
 Attaching a few articles on T gondii testing and others for understanding.  Recommend starting with "Life cycle" article.  Danger to humans are unborn child infected thru mother, also children and adults who are infected from uncooked meat or inhaling oocyst.  T gondii travel thru the body and can go dormant in muscles, heart, brain.  Note-life cycle article has links for downloading images at end.
