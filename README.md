@@ -23,6 +23,11 @@ In USA, not well understood by most Dr. Common test by vets. Anybody exposed to 
 
 - Read more <a href="/docs">DOCs</a>
 
+## Research Update 2022-04-27
+
+Upload seven (7) zip files of finds by Francis (BIG HI 5!! ;))
+Files grouped by major topic; ALS, PD, Toxo/Tgondii, ...  
+
 ## Research Update 2022-02-18
 
 Uploaded three (3) zip files containing many journal aricles found during Dec 2021--Feb 2022 searches.  Files grouped by major topic; ALS, PD, Toxo/Tgondii:  
